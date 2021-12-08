@@ -16,6 +16,8 @@ Ubuntu 20.04
 ### Aritificial IMU data Generation
 Execute imu_data_gen.py to genterate artificial IMU dat
 
+### Example Aritificial IMU Data
+In this example, add some outliers(polluted points) to test the robustness of the calibration program
 ![image](https://github.com/JingJie-Huang/IMU-Calibration/blob/main/raw_data.png)
 
 
