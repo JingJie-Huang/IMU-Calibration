@@ -11,7 +11,7 @@ Ubuntu 20.04
 
 ### How to Use
 1. Run ceres_imu.cpp for IMU Calibration using ceres solver
-2. Run g2o_imu.cpp for IMU Calibration using ceres solver
+2. Run g2o_imu.cpp for IMU Calibration using g2o solver
 
 ### Aritificial IMU data Generation
 Execute imu_data_gen.py to genterate artificial IMU dat
