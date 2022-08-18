@@ -1,7 +1,8 @@
 IMU Calibration for Accelerometer and Gyroscope
 =====
 
-### Depenency
+### Prerequisite Dependency
+Please make sure that the following dependencies are installed.
 1. ceres solver
 2. g2o
 3. Python3
